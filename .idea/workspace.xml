@@ -13,16 +13,39 @@
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+>>>>>>> 9270f4d4771e52102b6395e14d7044b4b2a04e3b
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="HBEDU18120011719" />
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -68,7 +91,19 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Android JUnit._4_ShareACandyWithAnIntent">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Android App.app">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+=======
+  <component name="RunManager" selected="Android App.app">
+>>>>>>> 9270f4d4771e52102b6395e14d7044b4b2a04e3b
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -85,6 +120,13 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -101,6 +143,10 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -117,6 +163,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="_4_ShareACandyWithAnIntent" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -133,6 +180,12 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+=======
+=======
+=======
+>>>>>>> 9270f4d4771e52102b6395e14d7044b4b2a04e3b
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -208,9 +261,21 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
+=======
+<<<<<<< HEAD
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
+=======
+<<<<<<< HEAD
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
+=======
+>>>>>>> 9270f4d4771e52102b6395e14d7044b4b2a04e3b
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -230,14 +295,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="482" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1601054375543">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="482" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601054375543" />
+=======
+    <state x="482" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1601025287332">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="482" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601025287332" />
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     <state x="531" y="271" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601019189625">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="271" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601019189625" />
+<<<<<<< HEAD
     <state width="981" height="2" key="GridCell.Tab.0.bottom" timestamp="1601054546143">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -254,6 +327,62 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="981" height="2" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601054546143" />
+=======
+<<<<<<< HEAD
+    <state width="981" height="2" key="GridCell.Tab.0.bottom" timestamp="1601053249794">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601053249794" />
+    <state width="981" height="2" key="GridCell.Tab.0.center" timestamp="1601053249794">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601053249794" />
+    <state width="981" height="2" key="GridCell.Tab.0.left" timestamp="1601053249793">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601053249793" />
+    <state width="981" height="2" key="GridCell.Tab.0.right" timestamp="1601053249794">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601053249794" />
+=======
+<<<<<<< HEAD
+    <state width="977" height="2" key="GridCell.Tab.0.bottom" timestamp="1601040993799">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601040993799" />
+    <state width="977" height="2" key="GridCell.Tab.0.center" timestamp="1601040993799">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601040993799" />
+    <state width="977" height="2" key="GridCell.Tab.0.left" timestamp="1601040993798">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601040993798" />
+    <state width="977" height="2" key="GridCell.Tab.0.right" timestamp="1601040993799">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601040993799" />
+=======
+    <state width="977" height="2" key="GridCell.Tab.0.bottom" timestamp="1601032414051">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601032414051" />
+    <state width="977" height="2" key="GridCell.Tab.0.center" timestamp="1601032414051">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601032414051" />
+    <state width="977" height="2" key="GridCell.Tab.0.left" timestamp="1601032414051">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601032414051" />
+    <state width="977" height="2" key="GridCell.Tab.0.right" timestamp="1601032414051">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="977" height="2" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601032414051" />
+>>>>>>> 9270f4d4771e52102b6395e14d7044b4b2a04e3b
+>>>>>>> 6b42c0fcec32c7ac9cab95ac884ad0b32cb1cf5b
+>>>>>>> 60cbd00bf5921cf9e7f3554f9985807a7758e226
     <state x="189" y="15" key="SettingsEditor" timestamp="1601018879877">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
